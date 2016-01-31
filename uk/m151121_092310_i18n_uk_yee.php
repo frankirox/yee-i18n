@@ -24,6 +24,7 @@ class m151121_092310_i18n_uk_yee extends TranslatedMessagesMigration
             'Add New' => 'Додати',
             'All' => 'Всі',
             'Always Visible' => 'Завжди Видимий',
+            'An unknown error occurred.' => 'Виникла невідома помилка.',
             'Approved' => 'Підтверджено',
             'Author' => 'Автор',
             'Banned' => 'Заблокований',
@@ -36,6 +37,7 @@ class m151121_092310_i18n_uk_yee extends TranslatedMessagesMigration
             'Code' => 'Код',
             'Comment Status' => 'Статус Коментарів',
             'Comments Activity' => 'Активність Коментарів',
+            'Confirm' => 'Підтвердити',
             'Confirmation Token' => 'Код Підтвердження',
             'Content' => 'Вміст',
             'Control Panel' => 'Панель Управління',
@@ -126,6 +128,7 @@ class m151121_092310_i18n_uk_yee extends TranslatedMessagesMigration
             'Yee CMS Version' => 'Версія Yee CMS',
             'Yee Core Version' => 'Версія Ядра Yee',
             'Yii Framework Version' => 'Версія Yii Framework',
+            'Your item has been updated.' => 'Успішно оновлено.',
         ];
     }
 }
