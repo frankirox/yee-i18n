@@ -87,6 +87,7 @@ class m151121_092310_i18n_uk_yee extends TranslatedMessagesMigration
             'Processing' => 'Обробка даних',
             'Publish' => 'Опублікувати',
             'Published' => 'Опубліковано',
+            'Read more' => 'Читати далі',
             'Records per page' => 'Записів на сторінці',
             'Registration IP' => 'IP Реєстрації',
             'Repeat password' => 'Повторіть пароль',

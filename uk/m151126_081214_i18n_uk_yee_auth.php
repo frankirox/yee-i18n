@@ -18,6 +18,8 @@ class m151126_081214_i18n_uk_yee_auth extends TranslatedMessagesMigration
     public function getTranslations()
     {
         return [
+            'Are you sure you want to delete your profile picture?' => 'Ви дійсно хочете видалити зображення профілю?',
+            'Are you sure you want to unlink this authorization?' => 'Ви дійсно хочете видалити цю авторизацію?',
             'Authentication error occurred.' => 'Помилка аутентифікації.',
             'Authorization' => 'Авторизація',
             'Authorized Services' => 'Авторизовані Сервіси',
