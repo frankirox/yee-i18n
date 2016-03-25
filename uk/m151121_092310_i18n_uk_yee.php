@@ -17,7 +17,7 @@ class m151121_092310_i18n_uk_yee extends TranslatedMessagesMigration
 
     public function getTranslations()
     {
-        return [
+        return [ 
             '--- With selected ---' => '--- З вибраним ---',
             'Activate' => 'Активувати',
             'Active' => 'Активні',
@@ -32,6 +32,7 @@ class m151121_092310_i18n_uk_yee extends TranslatedMessagesMigration
             'Browse' => 'Вибрати',
             'Browser' => 'Браузер',
             'Cancel' => 'Скасувати',
+            'Category' => 'Категорія',
             'Clear filters' => 'Очистити фільтри',
             'Closed' => 'Закрито',
             'Code' => 'Код',
@@ -49,6 +50,7 @@ class m151121_092310_i18n_uk_yee extends TranslatedMessagesMigration
             'Data' => 'Дані',
             'Deactivate' => 'Деактивувати',
             'Default Language' => 'Мова за замовчуванням',
+            'Default Value' => 'Значення за замовчуванням',
             'Delete' => 'Видалити',
             'Description' => 'Опис',
             'E-mail confirmed' => 'E-mail підтверджений',
@@ -57,6 +59,7 @@ class m151121_092310_i18n_uk_yee extends TranslatedMessagesMigration
             'Error' => 'Помилка',
             'For example' => 'Наприклад',
             'Group' => 'Група',
+            'ID' => 'ID',
             'IP' => 'IP',
             'Icon' => 'Іконка',
             'Inactive' => 'Неактивні',
@@ -91,6 +94,7 @@ class m151121_092310_i18n_uk_yee extends TranslatedMessagesMigration
             'Records per page' => 'Записів на сторінці',
             'Registration IP' => 'IP Реєстрації',
             'Repeat password' => 'Повторіть пароль',
+            'Required' => 'Обов\'язковий',
             'Revision' => 'Ревізія',
             'Role' => 'Роль',
             'Roles' => 'Ролі',
@@ -106,6 +110,7 @@ class m151121_092310_i18n_uk_yee extends TranslatedMessagesMigration
             'Status' => 'Статус',
             'Superadmin' => 'Суперадмін',
             'System Info' => 'Деталі Системи',
+            'The changes have been saved.' => 'Зміни були успішно збережені.',
             'This e-mail already exists' => 'Цей e-mail вже зайнятий',
             'Title' => 'Заголовок',
             'Token' => 'Токен',
