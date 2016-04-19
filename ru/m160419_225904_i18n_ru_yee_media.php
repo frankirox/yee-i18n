@@ -42,7 +42,7 @@ class m160419_225904_i18n_ru_yee_media extends TranslatedMessagesMigration
             'Manage Categories' => 'Управление Категориями',
             'Media Activity' => 'Активность Медиа',
             'Media Details' => 'Детали',
-            'Media' => 'Медіа',
+            'Media' => 'Медиа',
             'Medium size' => 'Средний размер',
             'No images found.' => 'Изображения не найдены.',
             'Original' => 'Оригинал',
@@ -55,7 +55,7 @@ class m160419_225904_i18n_ru_yee_media extends TranslatedMessagesMigration
             'Thumbnails' => 'Миниатюры',
             'Update Category' => 'Обновить Категорию',
             'Updated By' => 'Обновил',
-            'Upload New File' => 'Скачать файл',
+            'Upload New File' => 'Загрузить файл',
             'Uploaded By' => 'Загрузил',
         ];
         
