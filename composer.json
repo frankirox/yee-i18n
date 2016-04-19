@@ -1,0 +1,17 @@
+{
+  "name": "yeesoft/yee-i18n",
+  "description": "Migrations for Yee CMS powered site internationalization",
+  "license": "Apache-2.0",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Taras Makitra",
+      "email": "makitrataras@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "yeesoft\\yee-i18n\\": ""
+    }
+  }
+}
