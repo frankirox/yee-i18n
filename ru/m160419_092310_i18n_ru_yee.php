@@ -133,7 +133,20 @@ class m160419_092310_i18n_ru_yee extends TranslatedMessagesMigration
             'Yee CMS Version' => 'Версия Yee CMS',
             'Yee Core Version' => 'Версия Ядра Yee',
             'Yii Framework Version' => 'Версия Yii Framework',
-            'Your item has been updated.' => 'Успешно обновлено.',
+            'Your item has been updated.' => 'Запись успешно обновлена.',
+            'Your item has been created.' => 'Запись успешно создана.',
+            'Your item has been deleted.' => 'Запись успешно удалена.',
+            'Male' => 'Мужчина',
+            'Female' => 'Женщина',
+            'First Name' => 'Имя',
+            'Last Name' => 'Фамилия',
+            'Skype' => 'Skype',
+            'Phone' => 'Телефон',
+            'Gender' => 'Пол',
+            'Birthday' => 'День рождения',
+            'Birth month' => 'Месяц рождения',
+            'Birth year' => 'Год рождения',
+            'Short Info' => 'Краткая информация',
         ]; 
     }
 }
