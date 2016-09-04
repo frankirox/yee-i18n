@@ -68,6 +68,8 @@ class m151126_081214_i18n_uk_yee_auth extends TranslatedMessagesMigration
             'Update Password' => 'Змінити пароль',
             'User Profile' => 'Профіль Користувача',
             "User with the same email as in {client} account already exists but isn't linked to it. Login using email first to link it." => 'Користувач з такою ж електронною поштою як і в акаунті {client} вже існує. Ввійдіть за допомогою електронної пошти, та прив\'яжіть ваш акаунт.',
+            'The username should contain only Latin letters, numbers and the following characters: "-" and "_".' => 'Логін може містити лише латинські літери, цифри та символи "-" і "_".',
+            'Username contains not allowed characters or words.' => 'Ім\'я користувача містить недозволені символи або слова.',
             'Wrong password' => 'Неправильний пароль',
             'You could not login from this IP' => 'Ви не можете увійти з цієї IP адреси',
         ];
